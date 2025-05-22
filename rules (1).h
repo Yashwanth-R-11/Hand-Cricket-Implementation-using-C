@@ -1,0 +1,4 @@
+#define OVERS 5
+#define BALLS_PER_OVER 6
+#define TOTAL_BALLS (OVERS * BALLS_PER_OVER)
+#define PLAYERS_PER_TEAM 2
